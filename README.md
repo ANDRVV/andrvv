@@ -1,8 +1,9 @@
 <h1 align="center">I'm Andrea Vaccaro 👨🏻‍💻</h1>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrvv&layout=compact&langs_count=100&hide=php,javascript,html,css">
+
 <p>✨ I'm a 16 years old student from Italy 🇮🇹.</p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrvv&layout=compact&langs_count=100&hide=php,javascript">
 <h3 align="left">About me</h3>
 <ul align="left">
   <li>💻 <strong>4+</strong> years coding experience</li>

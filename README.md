@@ -2,23 +2,14 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrvv&layout=compact&langs_count=100&hide=php,javascript,html,css">
 
-<p>✨ I'm a 16 years old student from Italy 🇮🇹</p>
+<p>✨ I'm a 17 years old student from Italy 🇮🇹</p>
 
 <h3 align="left">About me</h3>
 <ul align="left">
-  <li>💻 <strong>4+</strong> years coding experience</li>
-  <li>⚡ President of <a href="https://github.com/raptodb">Raptodb</a>, a fast and memory-efficient database.</li>
-  <li>🤖 Built a <strong>Deep Neural Network</strong> library with C++</li>
-  <li>📡 Experienced at <strong>IEEE 802.11</strong> (see <a href="https://github.com/andrvv/gapcast">gapcast</a>), <strong>networking</strong> and <strong>cybersecurity</strong></li>
-  <li>📊 Worked with <strong>statistics</strong> and <strong>linear algebra</strong>: see <a href="https://github.com/andrvv/staz">staz</a> and <a href="https://github.com/andrvv/lean">Lean</a></li>
-  <li>🔧 Skilled at <strong>C</strong>, <strong>C++</strong>, <strong>Zig</strong> and low level coding</li>
-  <li>🌐 Author of <strong>HTTP request library</strong> for Go</li>
-  <li>⚙️ Experienced in <strong>microcontrollers</strong>, see <a href="https://github.com/andrvv/mpySocket">mpySocket</a></li>
-</ul>
-<h3 align="left">Other</h3>
-<ul align="left">
-  <li>🔍 Research on RSSI radar with Virtual Pathloss system, see <a href="https://github.com/ANDRVV/RadarRSSI/blob/main/RRVP/RRVP.pdf">RRVP</a></li>
-  <li>📚 Work in progress book: "<i>Mastery of constructs</i>" (C++ specific)</li>
+  <li>💻 <strong>5+</strong> years coding experience</li>
+  <li>⚡ <strong>President</strong> of <a href="https://github.com/raptodb">Raptodb</a>, a fast and memory-efficient database</li>
+  <li>📡 <strong>Author</strong> of <a href="https://github.com/andrvv/gapcast">gapcast</a>, a IEEE 802.11 tool</li>
+  <li>🔧 <strong>Self-student</strong> of HPC, performance engineering and low-level languages</li>
 </ul>
 
 <h3 align="left">Contact</h3>

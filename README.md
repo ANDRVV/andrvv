@@ -1,5 +1,3 @@
-<h1 align="left">Andrea Vaccaro</h1>
-
 <h3 align="left">Profile</h3>
 <ul align="left">
   <li><strong>6+</strong> years of experience in language-agnostic software development</li>

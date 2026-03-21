@@ -3,8 +3,5 @@
   <li><strong>6+</strong> years of experience in language-agnostic software development</li>
   <li><strong>Owner and maintainer</strong> of <a href="https://github.com/raptodb">Raptodb</a>, a high-performance and memory-efficient database</li>
   <li><strong>Author</strong> of <a href="https://github.com/andrvv/gapcast">gapcast</a>, an IEEE 802.11 audit tool</li>
-  <li><strong>Self-student</strong> of HPC, system programming and low-level systems</li>
+  <li><strong>Self-student</strong> of parallel/system programming and computer architecture</li>
 </ul>
-
-<h3 align="left">Contact</h3>
-<p>E-mail: <a href="mailto:vaccaro.andrea45@gmail.com">vaccaro.andrea45@gmail.com</a></p>

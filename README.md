@@ -5,3 +5,4 @@
   <li><strong>Author</strong> of <a href="https://github.com/andrvv/gapcast">gapcast</a>, an IEEE 802.11 audit tool</li>
   <li><strong>Self-student</strong> of parallel/system programming and computer architecture</li>
 </ul>
+<strong>Contacts: </strong> <a href="mailto:vaccaro.andrea45@gmail.com">E-mail</a>, <a href="https://www.linkedin.com/in/vaccaro-andrea08">LinkedIn</a>
